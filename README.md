@@ -2,6 +2,8 @@
 
 For the Radio buttons, Suggestion, Checkboxes and Show / hide:
 Install Node.js and Selenium WebDriver on your machine, and create a new project on Visual Studio
+
+Automation test file attached is for the above testing only.
  
 For the Web Table Fixed header:
 Use the Selenium WebDriver library in conjunction with the Mocha testing framework and the Chai assertion library.
