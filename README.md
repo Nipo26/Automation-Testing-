@@ -8,3 +8,9 @@ Use the Selenium WebDriver library in conjunction with the Mocha testing framewo
 First, set up the test by importing the necessary dependencies and defining the test suite and test cases:
 
 Test case of value 46 and value 296 created and attached.
+
+For the iFrame:
+Use the Selenium WebDriver library in conjunction with the Mocha testing framework and the Chai assertion library.
+First, set up the test by importing the necessary dependencies and defining the test suite and test cases:
+
+Test case verifying that the page contains at least one iframe.
