@@ -1,6 +1,6 @@
 # Automation-Testing- Using JavaScript
 
-For the Radio buttons, Suggestio, Checkboxes and Show / hide:
+For the Radio buttons, Suggestion, Checkboxes and Show / hide:
 Install Node.js and Selenium WebDriver on your machine, and create a new project on Visual Studio
  
 For the Web Table Fixed header:
